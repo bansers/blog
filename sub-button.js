@@ -19,7 +19,7 @@ function ButtonComponent(_ref) {
       onPress: onPress,
       children: /*#__PURE__*/(0, _jsxRuntime.jsx)(_reactNative.Text, {
         style: styles.buttonText,
-        children: "\u5B9A\u5236\u7EC4\u4EF6\u4E2D\u7684\u6309\u94AE"
+        children: "\u5B9A\u5236\u7EC4\u4EF6\u4E2D\u7684\u6309\u94AE~"
       })
     })
   });
